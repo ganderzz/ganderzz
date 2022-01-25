@@ -1,7 +1,7 @@
 ![Dylan Paulus Logo](https://raw.githubusercontent.com/ganderzz/ganderzz/master/logo.svg)
 
-🤓 Javascript, CSS, Python, Nim, C#, SQL
+🤓 Javascript, CSS, Python, C#, SQL
 
 🏠 Pacific Northwest
 
-🤹 Backpacking, Hiking, BJJ, Drums, Photography
+🤹 Backpacking, Hiking, BJJ, Muay Thai, Drums, Photography
