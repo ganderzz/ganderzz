@@ -4,4 +4,4 @@
 
 🏠 Pacific Northwest
 
-🤹 Drums, Backpacking, Hiking, BJJ, Muay Thai, Photography
+🤹 Drums, Backpacking, Hiking, Photography
