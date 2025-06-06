@@ -4,4 +4,6 @@
 
 🏠 Pacific Northwest
 
-🤹 Drums, Backpacking, Hiking, Photography
+🤹 Drums, Backpacking, Hiking, Trail Running, Photography
+
+🌐 [dylanpaulus.com](https://dylanpaulus.com)
